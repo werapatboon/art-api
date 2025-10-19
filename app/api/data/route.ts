@@ -16,6 +16,14 @@ export async function GET(req: Request) {
     image: art.image,
     details: art.details,
     details_th: art.details_th,
+    medium: art.medium,
+    medium_th: art.medium_th,
+    dimensions: art.dimensions,
+    dimensions_th: art.dimensions_th,
+    location: art.location,
+    location_th: art.location_th,
+    style: art.style,
+    style_th: art.style_th,
   }));
 
   return NextResponse.json(

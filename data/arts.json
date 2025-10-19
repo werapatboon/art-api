@@ -8,7 +8,15 @@
     "year": 1889,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1135px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
     "details": "Created during Van Gogh's stay at the asylum in Saint-Rémy, this masterpiece captures his emotional turbulence through swirling skies and vibrant colors.",
-    "details_th": "สร้างขึ้นในช่วงที่แวนโก๊ะพักรักษาตัวที่โรงพยาบาลจิตเวชเมืองแซงต์เรมี แสดงถึงอารมณ์ปั่นป่วนผ่านท้องฟ้าที่หมุนวนและสีสันอันสดใส"
+    "details_th": "สร้างขึ้นในช่วงที่แวนโก๊ะพักรักษาตัวที่โรงพยาบาลจิตเวชเมืองแซงต์เรมี แสดงถึงอารมณ์ปั่นป่วนผ่านท้องฟ้าที่หมุนวนและสีสันอันสดใส",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "73.7 cm × 92.1 cm",
+    "dimensions_th": "73.7 × 92.1 เซนติเมตร",
+    "location": "Museum of Modern Art, New York",
+    "location_th": "พิพิธภัณฑ์ศิลปะสมัยใหม่, นิวยอร์ก",
+    "style": "Post‑Impressionism",
+    "style_th": "หลังอิมเพรสชันนิสม์"
   },
   {
     "id": 2,
@@ -19,7 +27,15 @@
     "year": 1503,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJUzBmRgKoP0IjJPaldPOePnemewWp-B5hbmEF62Ko603MKYxRByfsckOSaJMd-zKMEwon_eahJaGvNPKzIi_q3ZDUQv7wma3zmr9TQ",
     "details": "Painted during the Italian Renaissance, famous for its enigmatic smile and subtle use of sfumato technique.",
-    "details_th": "ภาพวาดยุคฟื้นฟูศิลปวิทยาแห่งอิตาลี มีชื่อเสียงจากรอยยิ้มลึกลับและเทคนิคการไล่เฉดสีที่เรียกว่า ‘สฟูมาโต’"
+    "details_th": "ภาพวาดยุคฟื้นฟูศิลปวิทยาแห่งอิตาลี มีชื่อเสียงจากรอยยิ้มลึกลับและเทคนิคการไล่เฉดสีที่เรียกว่า ‘สฟูมาโต’",
+    "medium": "Oil on poplar panel",
+    "medium_th": "สีน้ำมันบนไม้ป็อปลาร์",
+    "dimensions": "77 cm × 53 cm",
+    "dimensions_th": "77 × 53 เซนติเมตร",
+    "location": "Louvre Museum, Paris",
+    "location_th": "พิพิธภัณฑ์ลูฟวร์, ปารีส",
+    "style": "Renaissance",
+    "style_th": "ศิลปะเรอเนซองส์"
   },
   {
     "id": 3,
@@ -30,7 +46,15 @@
     "year": 1931,
     "image": "https://uploads1.wikiart.org/00475/images/salvador-dali/w1siziisijm4njq3mcjdlfsiccisimnvbnzlcnqilcitcxvhbgl0esa5mcatcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg!Large.jpg",
     "details": "A surrealist masterpiece that visualizes the fluidity of time through melting clocks in a dreamlike landscape.",
-    "details_th": "ศิลปะแนวเซอร์เรียลลิสม์ที่แสดงถึงความยืดหยุ่นของเวลา ผ่านนาฬิกาที่กำลังละลายในฉากฝัน"
+    "details_th": "ศิลปะแนวเซอร์เรียลลิสม์ที่แสดงถึงความยืดหยุ่นของเวลา ผ่านนาฬิกาที่กำลังละลายในฉากฝัน",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "24 cm × 33 cm",
+    "dimensions_th": "24 × 33 เซนติเมตร",
+    "location": "Museum of Modern Art, New York",
+    "location_th": "พิพิธภัณฑ์ศิลปะสมัยใหม่, นิวยอร์ก",
+    "style": "Surrealism",
+    "style_th": "ศิลปะเหนือจริง"
   },
   {
     "id": 4,
@@ -41,7 +65,15 @@
     "year": 1893,
     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvncl3--zdfGEj98Vh-kl3_vkcbzh1aasuEJgybAkjk6Ja6R6FPgRB4wAxTbBvjF7vaqN7p67joho6sCBn6M8cohGxvd4vszjL2cb77Pg",
     "details": "Expresses existential anxiety and despair through a haunting figure beneath a fiery sky.",
-    "details_th": "แสดงถึงความกลัวและความสิ้นหวังในชีวิตผ่านภาพบุคคลที่กรีดร้องใต้ท้องฟ้าแดงเพลิง"
+    "details_th": "แสดงถึงความกลัวและความสิ้นหวังในชีวิตผ่านภาพบุคคลที่กรีดร้องใต้ท้องฟ้าแดงเพลิง",
+    "medium": "Oil, tempera, and pastel on cardboard",
+    "medium_th": "สีน้ำมัน เทมเพอร่า และพาสเทลบนกระดาษแข็ง",
+    "dimensions": "91 cm × 73.5 cm",
+    "dimensions_th": "91 × 73.5 เซนติเมตร",
+    "location": "National Museum and Munch Museum, Oslo",
+    "location_th": "พิพิธภัณฑ์แห่งชาติ และพิพิธภัณฑ์มุงค์, ออสโล",
+    "style": "Expressionism",
+    "style_th": "ลัทธิแสดงออก"
   },
   {
     "id": 5,
@@ -52,7 +84,15 @@
     "year": 1665,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/1013px-1665_Girl_with_a_Pearl_Earring.jpg",
     "details": "Known as the 'Mona Lisa of the North', it demonstrates Vermeer’s mastery of light and intimacy.",
-    "details_th": "ได้รับสมญา ‘โมนาลิซ่าแห่งโลกเหนือ’ แสดงให้เห็นทักษะการใช้แสงและความอบอุ่นของเฟอร์เมียร์"
+    "details_th": "ได้รับสมญา ‘โมนาลิซ่าแห่งโลกเหนือ’ แสดงให้เห็นทักษะการใช้แสงและความอบอุ่นของเฟอร์เมียร์",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "44.5 cm × 39 cm",
+    "dimensions_th": "44.5 × 39 เซนติเมตร",
+    "location": "Mauritshuis, The Hague, Netherlands",
+    "location_th": "พิพิธภัณฑ์เมาริทซ์เฮิส, กรุงเฮก, เนเธอร์แลนด์",
+    "style": "Dutch Golden Age (Baroque)",
+    "style_th": "ยุคทองของดัตช์ (บารอก)"
   },
   {
     "id": 6,
@@ -63,8 +103,16 @@
     "year": 1937,
     "image": "https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg",
     "details": "A monumental anti-war painting created after the bombing of Guernica, symbolizing suffering and chaos.",
-    "details_th": "ภาพต่อต้านสงครามขนาดใหญ่หลังเหตุทิ้งระเบิดเมืองเกวร์นิกา แสดงถึงความเจ็บปวดและความโกลาหล"
-  },
+    "details_th": "ภาพต่อต้านสงครามขนาดใหญ่หลังเหตุทิ้งระเบิดเมืองเกวร์นิกา แสดงถึงความเจ็บปวดและความโกลาหล",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "349.3 cm × 776.6 cm",
+    "dimensions_th": "349.3 × 776.6 เซนติเมตร",
+    "location": "Museo Reina Sofía, Madrid",
+    "location_th": "พิพิธภัณฑ์เรนา โซเฟีย, มาดริด",
+    "style": "Cubism / Anti-war modern art",
+    "style_th": "คิวบิสม์ / ศิลปะสมัยใหม่ต่อต้านสงคราม"
+    },
   {
     "id": 7,
     "title": "The Kiss",
@@ -74,7 +122,15 @@
     "year": 1908,
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Klimt_-_Der_Kuss.jpeg",
     "details": "A symbol of love, intimacy, and golden sensuality blending Byzantine influences with Art Nouveau.",
-    "details_th": "สัญลักษณ์แห่งความรักและความงดงาม ผลงานทองคำที่ผสมผสานศิลปะไบแซนไทน์กับอาร์ตนูโว"
+    "details_th": "สัญลักษณ์แห่งความรักและความงดงาม ผลงานทองคำที่ผสมผสานศิลปะไบแซนไทน์กับอาร์ตนูโว",
+    "medium": "Oil and gold leaf on canvas",
+    "medium_th": "สีน้ำมันและทองคำเปลวบนผ้าใบ",
+    "dimensions": "180 cm × 180 cm", 
+    "dimensions_th": "180 × 180 เซนติเมตร",
+    "location": "Österreichische Galerie Belvedere, Vienna",
+    "location_th": "หอศิลป์เบลเวเดเร, เวียนนา",
+    "style": "Symbolism / Art Nouveau",
+    "style_th": "สัญลักษณ์นิยม / อาร์ตนูโว"
   },
   {
     "id": 8,
@@ -85,7 +141,15 @@
     "year": 1831,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hokusai21_great-wave.jpg/2560px-Hokusai21_great-wave.jpg",
     "details": "Japan’s most iconic woodblock print, depicting a giant wave towering over fishermen near Mount Fuji.",
-    "details_th": "ภาพพิมพ์ไม้ที่มีชื่อเสียงที่สุดของญี่ปุ่น แสดงคลื่นยักษ์เหนือเรือชาวประมงใกล้ภูเขาไฟฟูจิ"
+    "details_th": "ภาพพิมพ์ไม้ที่มีชื่อเสียงที่สุดของญี่ปุ่น แสดงคลื่นยักษ์เหนือเรือชาวประมงใกล้ภูเขาไฟฟูจิ",
+    "medium": "Woodblock print on paper", 
+    "medium_th": "ภาพพิมพ์ไม้บนกระดาษ",
+    "dimensions": "24.6 cm × 36.8 cm",
+    "dimensions_th": "24.6 × 36.8 เซนติเมตร",
+    "location": "Various collections worldwide",
+    "location_th": "คอลเล็กชันต่าง ๆ ทั่วโลก",
+    "style": "Ukiyo-e",
+    "style_th": "อุคิโยะ-เอะ"
   },
   {
     "id": 9,
@@ -96,7 +160,15 @@
     "year": 1485,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1200px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
     "details": "Depicts Venus emerging from the sea, symbolizing divine beauty during the Renaissance.",
-    "details_th": "เทพีวีนัสลอยขึ้นจากทะเล สื่อถึงความงามอันศักดิ์สิทธิ์ในยุคฟื้นฟูศิลปวิทยา"
+    "details_th": "เทพีวีนัสลอยขึ้นจากทะเล สื่อถึงความงามอันศักดิ์สิทธิ์ในยุคฟื้นฟูศิลปวิทยา",
+    "medium": "Tempera on canvas",
+    "medium_th": "เทมเพอร่าสีบนผ้าใบ",
+    "dimensions": "172.5 cm × 278.9 cm",
+    "dimensions_th": "172.5 × 278.9 เซนติเมตร",
+    "location": "Uffizi Gallery, Florence",
+    "location_th": "หอศิลป์อุฟฟิซี, ฟลอเรนซ์",
+    "style": "Renaissance",
+    "style_th": "ศิลปะเรอเนซองส์"
   },
   {
     "id": 10,
@@ -107,7 +179,15 @@
     "year": 1916,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/1247px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
     "details": "Part of Monet’s series exploring light and reflection in his Giverny garden.",
-    "details_th": "หนึ่งในชุดภาพ ‘ดอกบัว’ ที่แสดงการเปลี่ยนแปลงของแสงและเงาในสวนที่เมืองฌีเวอนี"
+    "details_th": "หนึ่งในชุดภาพ ‘ดอกบัว’ ที่แสดงการเปลี่ยนแปลงของแสงและเงาในสวนที่เมืองฌีเวอนี",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "200 cm × 201 cm",
+    "dimensions_th": "200 × 201 เซนติเมตร",
+    "location": "Various collections worldwide",
+    "location_th": "คอลเล็กชันต่าง ๆ ทั่วโลก",
+    "style": "Impressionism", 
+    "style_th": "อิมเพรสชันนิสม์"
   },
   {
     "id": 11,
@@ -118,7 +198,15 @@
     "year": 1930,
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg",
     "details": "An iconic painting of a farmer and his daughter, symbolizing rural American values during the Great Depression.",
-    "details_th": "ภาพวาดเกษตรกรและลูกสาว อันเป็นสัญลักษณ์ของคุณค่าชนบทอเมริกันในช่วงภาวะเศรษฐกิจตกต่ำครั้งใหญ่"
+    "details_th": "ภาพวาดเกษตรกรและลูกสาว อันเป็นสัญลักษณ์ของคุณค่าชนบทอเมริกันในช่วงภาวะเศรษฐกิจตกต่ำครั้งใหญ่",
+    "medium": "Oil on beaverboard",
+    "medium_th": "สีน้ำมันบนกระดานบีเวอร์",
+    "dimensions": "78 cm × 65.3 cm",
+    "dimensions_th": "78 × 65.3 เซนติเมตร",
+    "location": "Art Institute of Chicago",
+    "location_th": "สถาบันศิลปะชิคาโก",
+    "style": "Regionalism",
+    "style_th": "ลัทธิภูมิภาคนิยม"  
   },
   {
     "id": 12,
@@ -129,7 +217,15 @@
     "year": 1642,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg/960px-The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg",
     "details": "A masterpiece of Baroque art, depicting a group of civic guards in Amsterdam.",
-    "details_th": "ผลงานชิ้นเอกของศิลปะบาโรก แสดงถึงกลุ่มทหารรักษาการเมืองในกรุงอัมสเตอร์ดัม"
+    "details_th": "ผลงานชิ้นเอกของศิลปะบาโรก แสดงถึงกลุ่มทหารรักษาการเมืองในกรุงอัมสเตอร์ดัม",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "363 cm × 437 cm",
+    "dimensions_th": "363 × 437 เซนติเมตร",
+    "location": "Rijksmuseum, Amsterdam",
+    "location_th": "ไรค์สมูเซียม, อัมสเตอร์ดัม",
+    "style": "Baroque",
+    "style_th": "บาโรก"
   },
   {
     "id": 13,
@@ -140,7 +236,15 @@
     "year": 1512,
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
     "details": "A fresco painting on the ceiling of the Sistine Chapel, illustrating the Biblical creation narrative.",
-    "details_th": "ภาพจิตรกรรมฝาผนังบนเพดานของโบสถ์ซิสทีน แสดงถึงเรื่องราวการสร้างตามคัมภีร์ไบเบิล"
+    "details_th": "ภาพจิตรกรรมฝาผนังบนเพดานของโบสถ์ซิสทีน แสดงถึงเรื่องราวการสร้างตามคัมภีร์ไบเบิล",
+    "medium": "Fresco",
+    "medium_th": "จิตรกรรมฝาผนัง",
+    "dimensions": "280 cm × 570 cm",
+    "dimensions_th": "280 × 570 เซนติเมตร",
+    "location": "Sistine Chapel, Vatican City",
+    "location_th": "โบสถ์ซิสทีน, วาติกัน",
+    "style": "High Renaissance",
+    "style_th": "เรอเนซองส์ยุคสูง"
   },
   {
     "id": 14,
@@ -151,7 +255,15 @@
     "year": 1511,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/330px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
     "details": "A fresco representing philosophy, featuring ancient Greek philosophers.",
-    "details_th": "ภาพจิตรกรรมฝาผนังที่แสดงถึงปรัชญา โดยมีนักปรัชญาชาวกรีกโบราณเป็นแบบอย่าง"
+    "details_th": "ภาพจิตรกรรมฝาผนังที่แสดงถึงปรัชญา โดยมีนักปรัชญาชาวกรีกโบราณเป็นแบบอย่าง",
+    "medium": "Fresco",
+    "medium_th": "จิตรกรรมฝาผนัง", 
+    "dimensions": "500 cm × 770 cm",
+    "dimensions_th": "500 × 770 เซนติเมตร",
+    "location": "Apostolic Palace, Vatican City",
+    "location_th": "พระราชวังอapostolic, วาติกัน",
+    "style": "High Renaissance",
+    "style_th": "เรอเนซองส์ยุคสูง"
   },
   {
     "id": 15,
@@ -162,7 +274,15 @@
     "year": 1498,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The-Last-Supper-Restored-Da-Vinci_32x16.jpg/2560px-The-Last-Supper-Restored-Da-Vinci_32x16.jpg",
     "details": "A fresco depictings the moment Jesus announces one of his disciples will betray him.",
-    "details_th": "ภาพจิตรกรรมฝาผนังที่แสดงถึงช่วงเวลาที่พระเยซูประกาศว่าหนึ่งในสาวกของพระองค์จะทรยศ"
+    "details_th": "ภาพจิตรกรรมฝาผนังที่แสดงถึงช่วงเวลาที่พระเยซูประกาศว่าหนึ่งในสาวกของพระองค์จะทรยศ",
+    "medium": "Fresco",
+    "medium_th": "จิตรกรรมฝาผนัง",
+    "dimensions": "460 cm × 880 cm",
+    "dimensions_th": "460 × 880 เซนติเมตร",
+    "location": "Convent of Santa Maria delle Grazie, Milan",
+    "location_th": "อารามซานตามาเรียเดลเลกราซี, มิลาน",
+    "style": "High Renaissance",
+    "style_th": "เรอเนซองส์ยุคสูง"
   },
   {
     "id": 16,
@@ -173,7 +293,15 @@
     "year": 1871,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/960px-Whistlers_Mother_high_res.jpg",
     "details": "A portrait of the artist’s mother, one of the most famous works of American art in the 19th century.",
-    "details_th": "ภาพเหมือนแม่ของศิลปิน หนึ่งในผลงานศิลปะอเมริกันที่มีชื่อเสียงที่สุดในศตวรรษที่ 19"
+    "details_th": "ภาพเหมือนแม่ของศิลปิน หนึ่งในผลงานศิลปะอเมริกันที่มีชื่อเสียงที่สุดในศตวรรษที่ 19",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "144.3 cm × 162.4 cm",
+    "dimensions_th": "144.3 × 162.4 เซนติเมตร",
+    "location": "Musée d'Orsay, Paris",
+    "location_th": "มูเซอ ดอร์เซย์, ปารีส",
+    "style": "Realism",
+    "style_th": "เรียลลิซึม"
   },
   {
     "id": 17,
@@ -184,7 +312,15 @@
     "year": 1505,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/960px-The_Garden_of_earthly_delights.jpg",
     "details": "A triptych painting depicting paradise, earthly pleasures, and hell, filled with surreal imagery.",
-    "details_th": "ภาพจิตรกรรมสามบานที่แสดงสวรรค์ ความสุขทางโลก และนรก เต็มไปด้วยภาพเหนือจริง"
+    "details_th": "ภาพจิตรกรรมสามบานที่แสดงสวรรค์ ความสุขทางโลก และนรก เต็มไปด้วยภาพเหนือจริง",
+    "medium": "Oil on oak panel",
+    "medium_th": "สีน้ำมันบนแผ่นไม้โอ๊ค",
+    "dimensions": "220 cm × 389 cm",
+    "dimensions_th": "220 × 389 เซนติเมตร",
+    "location": "Museo del Prado, Madrid",
+    "location_th": "พิพิธภัณฑ์เดล ปราโด, มาดริด",
+    "style": "Northern Renaissance / Surrealism",
+    "style_th": "เรอเนซองส์เหนือ / ศิลปะเหนือจริง"
   },
   {
     "id": 18,
@@ -195,7 +331,15 @@
     "year": 1830,
     "image": "https://www.1st-art-gallery.com/media/catalog/product/cache/193ef6a9f006ae1b1bc12f2750137772/paintingsL/155160/liberty-leading-the-people-rep.webp",
     "details": "A painting commemorating the July Revolution in France, symbolizing liberty and resistance.",
-    "details_th": "ภาพวาดเพื่อรำลึกถึงการปฏิวัติเดือนกรกฎาคมในฝรั่งเศส สื่อถึงเสรีภาพและการต่อต้าน"
+    "details_th": "ภาพวาดเพื่อรำลึกถึงการปฏิวัติเดือนกรกฎาคมในฝรั่งเศส สื่อถึงเสรีภาพและการต่อต้าน",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "260 cm × 325 cm",
+    "dimensions_th": "260 × 325 เซนติเมตร",
+    "location": "Musée du Louvre, Paris",
+    "location_th": "มูเซอ ดูลูฟร์, ปารีส",
+    "style": "Romanticism",
+    "style_th": "โรแมนติก"
   },
   {
     "id": 19,
@@ -206,7 +350,15 @@
     "year": 1656,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/1043px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
     "details": "A complex and enigmatic group portrait of the Spanish royal family, blending reality and illusion.",
-    "details_th": "ภาพเหมือนหมู่ที่ซับซ้อนและลึกลับของราชวงศ์สเปน ผสมผสานความจริงและภาพลวงตา"
+    "details_th": "ภาพเหมือนหมู่ที่ซับซ้อนและลึกลับของราชวงศ์สเปน ผสมผสานความจริงและภาพลวงตา",
+    "medium": "Oil on canvas", 
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "318 cm × 276 cm",
+    "dimensions_th": "318 × 276 เซนติเมตร",
+    "location": "Museo del Prado, Madrid",
+    "location_th": "พิพิธภัณฑ์เดล ปราโด, มาดริด",
+    "style": "Baroque",
+    "style_th": "บาโรก"
   },
   {
     "id": 20,
@@ -217,7 +369,15 @@
     "year": 1434,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/960px-The_Arnolfini_portrait_%281434%29.jpg",
     "details": "A famous portrait of Giovanni Arnolfini and his wife, celebrated for its detail and symbolism.",
-    "details_th": "ภาพเหมือนโจวานนี อาร์โนลฟินีและภรรยา มีชื่อเสียงจากรายละเอียดและสัญลักษณ์ที่ซ่อนอยู่"
+    "details_th": "ภาพเหมือนโจวานนี อาร์โนลฟินีและภรรยา มีชื่อเสียงจากรายละเอียดและสัญลักษณ์ที่ซ่อนอยู่",
+    "medium": "Oil on oak panel",
+    "medium_th": "สีน้ำมันบนแผ่นไม้โอ๊ค",
+    "dimensions": "82 cm × 60 cm",
+    "dimensions_th": "82 × 60 เซนติเมตร",
+    "location": "National Gallery, London",
+    "location_th": "หอศิลป์แห่งชาติ, ลอนดอน",
+    "style": "Northern Renaissance",
+    "style_th": "เรอเนซองส์เหนือ"
   },
   {
     "id": 21,
@@ -228,7 +388,15 @@
     "year": 1821,
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg",
     "details": "A landscape painting depicting a rural scene on the River Stour, symbolizing English countryside life.",
-    "details_th": "ภาพทิวทัศน์ชนบทริมแม่น้ำสตอร์ แสดงถึงวิถีชีวิตชนบทอังกฤษ"
+    "details_th": "ภาพทิวทัศน์ชนบทริมแม่น้ำสตอร์ แสดงถึงวิถีชีวิตชนบทอังกฤษ",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "130.2 cm × 185.4 cm",
+    "dimensions_th": "130.2 × 185.4 เซนติเมตร",
+    "location": "National Gallery, London",
+    "location_th": "หอศิลป์แห่งชาติ, ลอนดอน",
+    "style": "Romanticism",
+    "style_th": "โรแมนติก"
   },
   {
     "id": 22,
@@ -239,7 +407,16 @@
     "year": 1897,
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/La_Boh%C3%A9mienne_endormie.jpg",
     "details": "Depicts a lion curiously watching a sleeping woman in a desert landscape, blending dream and reality.",
-    "details_th": "สิงโตจ้องมองหญิงสาวที่หลับใหลในทะเลทราย ผสมผสานความฝันและความจริง"
+    "details_th": "สิงโตจ้องมองหญิงสาวที่หลับใหลในทะเลทราย ผสมผสานความฝันและความจริง",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "129.5 cm × 200.7 cm",
+    "dimensions_th": "129.5 × 200.7 เซนติเมตร",
+    "location": "Museum of Modern Art, New York",
+    "location_th": "พิพิธภัณฑ์ศิลปะสมัยใหม่, นิวยอร์ก",
+    "style": "Naïve art",
+    "style_th": "ศิลปะไร้เดียงสา"
+    
   },
   {
     "id": 23,
@@ -250,7 +427,15 @@
     "year": 1942,
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg",
     "details": "A famous American realist painting showing people in a late-night diner, evoking urban isolation.",
-    "details_th": "ภาพแนวเรียลลิสม์อเมริกัน แสดงผู้คนในร้านอาหารยามดึก สื่อถึงความโดดเดี่ยวในเมือง"
+    "details_th": "ภาพแนวเรียลลิสม์อเมริกัน แสดงผู้คนในร้านอาหารยามดึก สื่อถึงความโดดเดี่ยวในเมือง",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "84.1 cm × 152.4 cm",
+    "dimensions_th": "84.1 × 152.4 เซนติเมตร",
+    "location": "Art Institute of Chicago",
+    "location_th": "สถาบันศิลปะชิคาโก", 
+    "style": "Realism",
+    "style_th": "เรียลลิซึม"
   },
   {
     "id": 24,
@@ -261,7 +446,15 @@
     "year": 1767,
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_Swing_%28P430%29.jpg",
     "details": "A Rococo masterpiece showing a young woman on a swing, symbolizing romance and playful elegance.",
-    "details_th": "ผลงานชิ้นเอกสมัยโรโคโค แสดงหญิงสาวบนชิงช้า สื่อถึงความโรแมนติกและความงดงามขี้เล่น"
+    "details_th": "ผลงานชิ้นเอกสมัยโรโคโค แสดงหญิงสาวบนชิงช้า สื่อถึงความโรแมนติกและความงดงามขี้เล่น",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "81 cm × 64 cm",
+    "dimensions_th": "81 × 64 เซนติเมตร",
+    "location": "Wallace Collection, London",
+    "location_th": "หอศิลป์วอลเลซ, ลอนดอน",
+    "style": "Rococo",
+    "style_th": "โรโคโค"
   },
   {
     "id": 25,
@@ -272,7 +465,15 @@
     "year": 1814,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg/1200px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg",
     "details": "Depicts the execution of Spanish rebels by Napoleon’s troops, symbolizing resistance and sacrifice.",
-    "details_th": "ภาพการประหารกบฏชาวสเปนโดยทหารนโปเลียน สื่อถึงการต่อต้านและการเสียสละ"
+    "details_th": "ภาพการประหารกบฏชาวสเปนโดยทหารนโปเลียน สื่อถึงการต่อต้านและการเสียสละ",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "266 cm × 345 cm",
+    "dimensions_th": "266 × 345 เซนติเมตร",
+    "location": "Museo del Prado, Madrid",
+    "location_th": "พิพิธภัณฑ์เดล ปราโด, มาดริด",
+    "style": "Romanticism",
+    "style_th": "โรแมนติก"
   },
   {
     "id": 26,
@@ -283,7 +484,15 @@
     "year": 1567,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg/1200px-Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg",
     "details": "A lively depiction of a rustic wedding feast, showcasing Bruegel’s keen observation of peasant life.",
-    "details_th": "ภาพงานเลี้ยงแต่งงานชาวนา แสดงถึงการสังเกตชีวิตชนบทอย่างละเอียดของบรูเกล"
+    "details_th": "ภาพงานเลี้ยงแต่งงานชาวนา แสดงถึงการสังเกตชีวิตชนบทอย่างละเอียดของบรูเกล",
+    "medium": "Oil on panel",
+    "medium_th": "สีน้ำมันบนแผ่นไม้",
+    "dimensions": "114 cm × 164 cm",
+    "dimensions_th": "114 × 164 เซนติเมตร",
+    "location": "Kunsthistorisches Museum, Vienna",
+    "location_th": "พิพิธภัณฑ์ประวัติศาสตร์ศิลปะ, เวียนนา",
+    "style": "Northern Renaissance",
+    "style_th": "เรอเนซองส์เหนือ"
   },
   {
     "id": 27,
@@ -294,7 +503,15 @@
     "year": 1895,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EcgOQqicKo0GKp51dnn7RJJMktrKFG3kbA&s",
     "details": "Part of Cézanne’s series showing peasants playing cards, a milestone in modern art.",
-    "details_th": "หนึ่งในชุดภาพของเซซาน แสดงชาวนากำลังเล่นไพ่ ถือเป็นหมุดหมายสำคัญของศิลปะสมัยใหม่"
+    "details_th": "หนึ่งในชุดภาพของเซซาน แสดงชาวนากำลังเล่นไพ่ ถือเป็นหมุดหมายสำคัญของศิลปะสมัยใหม่",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "97 cm × 130 cm",
+    "dimensions_th": "97 × 130 เซนติเมตร",
+    "location": "Various collections worldwide",
+    "location_th": "คอลเลกชันต่างๆ ทั่วโลก",
+    "style": "Post-Impressionism",
+    "style_th": "โพสต์อิมเพรสชันนิสม์"
   },
   {
     "id": 28,
@@ -305,7 +522,15 @@
     "year": 1876,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Mus%C3%A9e_d%27Orsay_RF_2739_%28derivative_work_-_AutoContrast_edit_in_LCH_space%29.jpg/500px-Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Mus%C3%A9e_d%27Orsay_RF_2739_%28derivative_work_-_AutoContrast_edit_in_LCH_space%29.jpg",
     "details": "An Impressionist painting capturing a lively outdoor dance scene in Montmartre, Paris.",
-    "details_th": "ภาพแนวอิมเพรสชันนิสม์ แสดงบรรยากาศงานเต้นรำกลางแจ้งที่มงต์มาร์ต ปารีส"
+    "details_th": "ภาพแนวอิมเพรสชันนิสม์ แสดงบรรยากาศงานเต้นรำกลางแจ้งที่มงต์มาร์ต ปารีส",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "131 cm × 175 cm",
+    "dimensions_th": "131 × 175 เซนติเมตร",
+    "location": "Musée d'Orsay, Paris",
+    "location_th": "พิพิธภัณฑ์ออร์เซย์, ปารีส",
+    "style": "Impressionism",
+    "style_th": "อิมเพรสชันนิสม์"
   },
   {
     "id": 29,
@@ -316,7 +541,15 @@
     "year": 1839,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-KsuLhZVmV4gdU64oqBLNgUJ-MgrqPROBg&s",
     "details": "Depicts the last journey of the warship HMS Temeraire, symbolizing the end of an era.",
-    "details_th": "ภาพการเดินทางครั้งสุดท้ายของเรือรบเทเมเรร์ สื่อถึงการสิ้นสุดของยุคสมัย"
+    "details_th": "ภาพการเดินทางครั้งสุดท้ายของเรือรบเทเมเรร์ สื่อถึงการสิ้นสุดของยุคสมัย",
+    "medium": "Oil on canvas",
+    "medium_th": "สีน้ำมันบนผ้าใบ",
+    "dimensions": "90.7 cm × 121.9 cm",
+    "dimensions_th": "90.7 × 121.9 เซนติเมตร",
+    "location": "National Gallery, London",
+    "location_th": "หอศิลป์แห่งชาติ, ลอนดอน",
+    "style": "Romanticism",
+    "style_th": "โรแมนติก"
   },
   {
     "id": 30,
@@ -327,6 +560,14 @@
     "year": 1306,
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Giotto_-_Scrovegni_-_-31-_-_Kiss_of_Judas.jpg",
     "details": "A fresco from the Scrovegni Chapel depicting Judas betraying Jesus with a kiss.",
-    "details_th": "ภาพจิตรกรรมฝาผนังในโบสถ์สโครเวญี แสดงเหตุการณ์ยูดาสหักหลังพระเยซูด้วยการจูบ"
+    "details_th": "ภาพจิตรกรรมฝาผนังในโบสถ์สโครเวญี แสดงเหตุการณ์ยูดาสหักหลังพระเยซูด้วยการจูบ",
+    "medium": "Fresco",
+    "medium_th": "จิตรกรรมฝาผนัง",
+    "dimensions": "200 cm × 185 cm",
+    "dimensions_th": "200 × 185 เซนติเมตร", 
+    "location": "Scrovegni Chapel, Padua, Italy",
+    "location_th": "โบสถ์สโครเวญี, ปาดัว, อิตาลี",
+    "style": "Proto-Renaissance",
+    "style_th": "โปรโตเรอเนซองส์"
   }
 ]
