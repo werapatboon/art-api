@@ -18,10 +18,32 @@ export async function GET(req: Request) {
     details_th: art.details_th,
   }));
 
-  return NextResponse.json({
-    total: artworks.length,
-    offset,
-    limit,
-    data,
-  });
+  return NextResponse.json(
+    {
+      total: artworks.length,
+      offset,
+      limit,
+      data,
+    },
+    {
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, OPTIONS",
+      },
+    }
+  );
+}
+
+// 👇 เพิ่ม handler สำหรับ preflight OPTIONS request
+export async function OPTIONS() {
+  return NextResponse.json(
+    {},
+    {
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type, Authorization",
+      },
+    }
+  );
 }
